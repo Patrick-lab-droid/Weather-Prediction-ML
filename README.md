@@ -1,0 +1,3 @@
+🌦️ Weather Prediction Model
+
+This project uses machine learning with scikit-learn to predict weather conditions from structured datasets. Data is preprocessed with Pandas, NumPy, and Feature-engine, including outlier handling, scaling, and encoding through pipelines. Models such as Logistic Regression, Random Forest, Decision Tree, SVM, and KNN are trained, tuned with GridSearchCV/RandomizedSearchCV, and validated using cross-validation. Performance is measured with accuracy, confusion matrices, and classification reports, with results visualized using Matplotlib and Seaborn. The project demonstrates a complete workflow for building reliable predictive models in weather forecasting and similar domains.
